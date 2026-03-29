@@ -1,6 +1,6 @@
 ﻿namespace APBD.Zadanie2;
 
-public class Hardware
+public abstract class Hardware
 {
     private static int idCounter = 1;
 
